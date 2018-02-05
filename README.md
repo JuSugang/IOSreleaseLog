@@ -34,3 +34,6 @@ http://blog.naver.com/PostView.nhn?blogId=watchmafia&logNo=220744627758&category
 
 만약 이미 등록했다면 이곳에서 조회할 수도 있습니다.
 https://www.clien.net/service/board/cm_app/6915674
+
+▶ SKU Number
+SKU Number는 개발한 앱을 등록시, 다른 앱과 구분지어줄 수 있는 숫자 구분으로, 2자리 수 이상이면 됩니다. (현재는 문자도 상관없다고 합니다)
