@@ -19,8 +19,10 @@ https://itunesconnect.apple.com (8:00)를 이용해야 합니다.
 developer 권한은 member 권한과 admin 권한 을 받을 수 있으며, 앱을 릴리스 하기 위해서는 admin 권한이 있어야
 AppID 같은 것을 만들 수 있기 때문에 admin 권한이 필요합니다.
 두개의 승인 메일을 받지 않으면 위 웹사이트에서 추가 버튼이 비활성화 되어 있거나,
+
 itunesconnect의 모습이
 
 ![pi8sm](https://user-images.githubusercontent.com/25005610/35789241-3bbf9f2a-0a7e-11e8-9c6a-dd97e4e191c9.png)
 
 이렇게 보일 것입니다.
+그 외 기기 인증 및 등록이 필요한데, 기업에서 대여해준 기계들이라면, 아마 보통 등록이 되어있을 것입니다. 물론 안되어있으면 추가해야합니다.
