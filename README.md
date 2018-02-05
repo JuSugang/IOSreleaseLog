@@ -29,4 +29,8 @@ itunesconnect의 모습이
 
 ![2018-02-05 2 15 42](https://user-images.githubusercontent.com/25005610/35789403-54256fb2-0a7f-11e8-998e-899ea23b5c82.png)
 
+전자상거래 등록번호는 이 블로그를 참고하면 됩니다.
+http://blog.naver.com/PostView.nhn?blogId=watchmafia&logNo=220744627758&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView
+
+만약 이미 등록했다면 이곳에서 조회할 수도 있습니다.
 https://www.clien.net/service/board/cm_app/6915674
