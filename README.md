@@ -26,3 +26,7 @@ itunesconnect의 모습이
 
 이렇게 보일 것입니다.
 그 외 기기 인증 및 등록이 필요한데, 기업에서 대여해준 기계들이라면, 아마 보통 등록이 되어있을 것입니다. 물론 안되어있으면 추가해야합니다.
+
+![2018-02-05 2 15 42](https://user-images.githubusercontent.com/25005610/35789403-54256fb2-0a7f-11e8-998e-899ea23b5c82.png)
+
+https://www.clien.net/service/board/cm_app/6915674
